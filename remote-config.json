@@ -4,6 +4,7 @@
   "update_url": "https://github.com/Kiing00/OTA/releases/download/v1.7.9/app-release.apk",
   "changelog": [
     "Bug fixes",
-    "UI improvements"
+    "UI improvements",
+    "OTA Update Available"
   ]
 }
