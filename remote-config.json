@@ -1,0 +1,10 @@
+{
+  "version": "1.0.1",
+  "min_version": "1.0.0",
+  "update_url": "https://github.com/your_repo/app/releases/download/v1.0.1/app.apk",
+  "changelog": [
+    "Bug fixes",
+    "UI improvements",
+    "New features added"
+  ]
+}
