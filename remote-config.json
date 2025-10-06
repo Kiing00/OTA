@@ -1,7 +1,7 @@
 {
   "version": "1.7.9",
   "min_version": "1.0.0",
-  "update_url": "https://github.com/Kiing00/OTA/releases/download/v.1.7.9/app-release.apk",
+  "update_url": "https://github.com/Kiing00/OTA/releases/download/v1.7.9/app-release.apk",
   "changelog": [
     "Bug fixes",
     "UI improvements",
