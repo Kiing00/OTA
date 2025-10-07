@@ -1,12 +1,11 @@
 {
   "version": "1.8.0",
   "min_version": "1.0.0",
-  "update_url": "https://github.com/Kiing00/OTA/releases/download/v.1.8.0/app-release.apk",
+  "update_url": "https://github.com/Kiing00/OTA/releases/download/v.1.8.3/app-release.apk",
   "changelog": [
     "Bug fixes",
-    "UI improvements",
-    "Record Transactin Updated",
-    "Transaction Updated",
+    "Record Transaction UI Updated",
+    "Account Transafer UI Updated",
     "This release is non-production ready",
     "Your Opinion and Suggestion is highly Appreciated!"
   ]
