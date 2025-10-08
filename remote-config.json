@@ -1,11 +1,12 @@
 {
-  "version": "1.8.3",
+  "version": "1.8.5",
   "min_version": "1.0.0",
-  "update_url": "https://github.com/Kiing00/OTA/releases/download/v.1.8.3/app-release.apk",
+  "update_url": "https://github.com/Kiing00/OTA/releases/download/v.1.8.5/app-release.apk",
   "changelog": [
     "Bug fixes",
     "Record Transaction UI Updated",
-    "Account Transafer UI Updated",
+    "Slide to left to right to view Transaction details",
+    "Adding icon on Analytics Screen",
     "This release is non-production ready",
     "Your Opinion and Suggestion is highly Appreciated!"
   ]
