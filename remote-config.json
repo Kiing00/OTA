@@ -1,12 +1,12 @@
 {
-  "version": "1.8.5",
+  "version": "1.8.6",
   "min_version": "1.0.0",
-  "update_url": "https://github.com/Kiing00/OTA/releases/download/v.1.8.5/app-release.apk",
+  "update_url": "https://github.com/Kiing00/OTA/releases/download/v.1.8.6/app-release.apk",
   "changelog": [
     "Bug fixes",
-    "Record Transaction UI Updated",
-    "Slide from left to right to view Transaction details",
-    "Adding icon on Analytics Screen",
+    "Account Screen UI adjusted",
+    "Total Balance Fix Pending Transaction will be reflet once completed",
+    "Clear App data Before opening the Appp",
     "This release is non-production ready",
     "Your Opinion and Suggestion is highly Appreciated!"
   ]
