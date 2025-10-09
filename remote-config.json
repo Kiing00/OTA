@@ -3,7 +3,7 @@
   "min_version": "1.0.0",
   "update_url": "https://github.com/Kiing00/OTA/releases/download/v.1.8.6/app-release.apk",
   "changelog": [
-    "Bug fixes",
+    "Notification reminder Fix",
     "Account Screen UI adjusted",
     "Total Balance Fix Pending Transaction will be reflect once completed",
     "Clear App data Before opening the Appp",
