@@ -1,10 +1,9 @@
 {
-  "version": "1.8.7",
+  "version": "1.8.8",
   "min_version": "1.0.0",
-  "update_url": "https://github.com/Kiing00/OTA/releases/download/v.1.8.7/app-release.apk",
+  "update_url": "https://github.com/Kiing00/OTA/releases/download/v.1.8.8/app-release.apk",
   "changelog": [
     "Notification reminder Fix",
-    "Account Screen UI adjusted",
     "Total Balance Fix Pending Transaction will be reflect once completed",
     "Clear App data Before opening the Appp",
     "This release is non-production ready",
