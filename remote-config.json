@@ -1,12 +1,12 @@
 {
-  "version": "1.8.8",
+  "version": "1.8.9",
   "min_version": "1.0.0",
-  "update_url": "https://github.com/Kiing00/OTA/releases/download/v.1.8.8/app-release.apk",
+  "update_url": "https://github.com/Kiing00/OTA/releases/download/v.1.8.9/app-release.apk",
   "changelog": [
-    "Notification reminder Fix",
-    "Total Balance Fix Pending Transaction will be reflect once completed",
-    "Clear App data Before opening the Appp",
-    "This release is non-production ready",
-    "Your Opinion and Suggestion is highly Appreciated!"
+    "You can now see yor Balance in Transaction",
+    "You can now Search Notes in Records",
+    "Introduce the Smart Insights this is in BETA",
+    "Your Opinion and Suggestion is highly Appreciated!",
+    "This release is non-production ready"
   ]
 }
