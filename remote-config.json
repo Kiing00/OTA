@@ -1,7 +1,7 @@
 {
-  "version": "1.9.0",
+  "version": "1.9.1",
   "min_version": "1.0.0",
-  "update_url": "https://github.com/Kiing00/OTA/releases/download/v.1.9.0/app-release.apk",
+  "update_url": "https://github.com/Kiing00/OTA/releases/download/v.1.9.1/app-release.apk",
   "changelog": [
     "You can now View your Account Details",
     "UI Revamp",
