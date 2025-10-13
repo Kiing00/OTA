@@ -1,12 +1,12 @@
 {
-  "version": "1.9.1",
+  "version": "1.9.2",
   "min_version": "1.0.0",
-  "update_url": "https://github.com/Kiing00/OTA/releases/download/v.1.9.1/app-release.apk",
+  "update_url": "https://github.com/Kiing00/OTA/releases/download/v.1.9.2/app-release.apk",
   "changelog": [
     "Welcome to Monii App",
-    "You can now View your Account Details",
-    "UI Revamp",
-    "Introduce the Smart Insights this is in BETA",
+    "Introduce the New App Icon",
+    "UI Revamp in Account Details",
+    "Option to hide the Total Balance",
     "Your Opinion and Suggestion is highly Appreciated!",
     "This release is non-production ready"
   ]
