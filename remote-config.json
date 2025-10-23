@@ -1,11 +1,11 @@
 {
-  "version": "1.9.6",
+  "version": "1.9.7",
   "min_version": "1.0.0",
-  "update_url": "https://github.com/Kiing00/OTA/releases/download/v.1.9.6/app-release.apk",
+  "update_url": "https://github.com/Kiing00/OTA/releases/download/v.1.9.7/app-release.apk",
   "changelog": [
     "Welcome to Monii App",
-    "Adding Sort in Account Details",
-    "You can now view the Account Name in Transaction",
+    "Introducing the Smart Insight 2.0",
+    "You can now filter Year in Analytics",
     "Minor Changes and Bug Fix",
     "Your Opinion and Suggestion is highly Appreciated!",
     "This release is non-production ready"
