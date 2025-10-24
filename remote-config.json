@@ -1,11 +1,11 @@
 {
-  "version": "1.9.7",
+  "version": "1.9.8",
   "min_version": "1.0.0",
-  "update_url": "https://github.com/Kiing00/OTA/releases/download/v.1.9.7/app-release.apk",
+  "update_url": "https://github.com/Kiing00/OTA/releases/download/v.1.9.8/app-release.apk",
   "changelog": [
     "Welcome to Monii App",
     "Introducing the Smart Insight 2.0",
-    "You can now filter Year in Analytics",
+    "Introducing Profile you can now view your Profile Details",
     "Minor Changes and Bug Fix",
     "Your Opinion and Suggestion is highly Appreciated!",
     "This release is non-production ready"
