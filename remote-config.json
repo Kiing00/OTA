@@ -1,15 +1,10 @@
 {
-  "version": "1.10.6",
+  "version": "1.10.7",
   "min_version": "1.0.0",
-  "update_url": "https://github.com/Kiing00/OTA/releases/download/v.1.10.6/app-release.apk",
+  "update_url": "https://github.com/Kiing00/OTA/releases/download/v.1.10.7/app-release.apk",
   "changelog": [
     "Welcome to Monii App",
-    "Revamp Overall UI and UX",
-    "Now upcoming transactions can be seen in the calendar app",
-    "OTA update Support and Old version Cleaning to save Space",
-    "Fix Recurring Transaction Bug",
-    "You can now Delete/edit Recurring Transactions", 
-    "Back Up your Data Before Updating",
+    "Bug Fixes and Improvements",
     "Your Opinion and Suggestion is highly Appreciated!",
     "This release is non-production ready"
   ]
